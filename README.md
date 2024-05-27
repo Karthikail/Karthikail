@@ -12,7 +12,7 @@
 ---
 
 ### Top Languages
-![Top Languages](Python,C,Java,HTML,CSS,Javascript)
+![Top Languages]Python,C,Java,HTML,CSS,Javascript
 
 ---
 
